@@ -16,7 +16,7 @@ I design ecosystems that treat Kubernetes not just as a tool, but as a platform 
 The core philosophy of this ecosystem is to move beyond simple container orchestration and toward a **Hardened Production Environment**. This architecture is designed to eliminate single points of failure while maintaining a "Security-First" posture.
 
 ### **The "Big Picture" Flow**
-![System Architecture](assets/k8s-traffic-flow.png)
+https://github.com/lebarionellison/kubernetes-ecosystem-architecture/blob/main/k8s-traffic-flow.png?raw=true
 
 ### **Key Design Considerations:**
 * **High Availability (HA):** Traffic enters via a Global Load Balancer (ALB/AGW) and is distributed across multiple **Availability Zones (Multi-AZ)** to ensure 99.99% uptime.
