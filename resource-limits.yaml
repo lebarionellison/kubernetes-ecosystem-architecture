@@ -1,9 +1,3 @@
-VERY important for SRE branding.
-
-Shows:
-✅ CPU limits
-✅ Memory requests
-✅ Reliability awareness
 
 resources:
   requests:
