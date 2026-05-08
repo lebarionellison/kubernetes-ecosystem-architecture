@@ -1,8 +1,0 @@
-manifests/
-├── deployment.yaml
-├── service.yaml
-├── ingress.yaml
-├── namespace.yaml
-├── configmap.yaml
-├── resource-limits.yaml
-└── pod-failure-simulation.yaml
