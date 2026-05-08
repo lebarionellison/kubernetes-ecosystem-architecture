@@ -1,0 +1,10 @@
+manifests/
+├── namespace.yaml
+├── deployment.yaml
+├── service.yaml
+├── ingress.yaml
+├── configmap.yaml
+├── resource-limits.yaml
+├── hpa.yaml
+├── pod-failure-simulation.yaml
+└── network-policy.yaml
