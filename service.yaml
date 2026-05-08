@@ -1,4 +1,0 @@
-kind: Service
-spec:
-  selector:
-    app: nginx-demo
