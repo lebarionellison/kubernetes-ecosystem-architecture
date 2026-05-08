@@ -1,0 +1,14 @@
+VERY important for SRE branding.
+
+Shows:
+✅ CPU limits
+✅ Memory requests
+✅ Reliability awareness
+
+resources:
+  requests:
+    memory: "128Mi"
+    cpu: "250m"
+  limits:
+    memory: "256Mi"
+    cpu: "500m"
